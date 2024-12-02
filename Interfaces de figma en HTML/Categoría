@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zxx">
+  <head>
+    <meta name="description" content="Las categorias de tus películas y series favoritas">
+    <meta charset="ISO-8859-1">
+    <title>Categoría</title>
+  </head>
+  <body>
+    <header>
+       <img href="imágenes/icon_menú.png" alt="Menú">
+       <h1>Legión Series</h1>
+       <img href="imágenes/icon_buscador.png" alt="buscador">
+    </header>
+
+      <figure>
+         <img href="imágenes/harry_potter_y_las_reliquias_de_la_muerte.jpg" alt="Harry potter y las reliquias de la  muerte">
+         <figcaption>Harry Potter y las reliquias de la muerte</figcaption>
+      </figure>
+
+      <figure> 
+	 <img href="imágenes/El_señor_de_los_anillos.jpg" alt="El señor de los anillos: los anillos del poder">
+         <figcaption>El señor de los anillos: los anillos del poder</figcaption>
+      </figure>
+
+      <figure>
+         <img href="imágenes/jumper.jpg" alt="Jumper">
+         <figcaption>Jumper</figcaption>
+      </figure>
+
+      <figure>
+         <img href="imágenes/Stuart_Little" alt="Stuart Little">
+         <figcaption>Stuart Little</figcaption>
+      </figure>
+
+    </section>
+
+
+    </section>
+
+
+
+
+
+
+
+  </body>
+
+</html>
