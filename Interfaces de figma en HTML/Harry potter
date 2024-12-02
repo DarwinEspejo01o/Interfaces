@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zxx">
+  <head>
+    <meta name="description" content="Las categorias de tus películas y series favoritas">
+    <meta charset="ISO-8859-1">
+    <title>Harry Potter y las reliquias de la muerte</title>
+  </head>
+  <body>
+    <header>
+       <img href="imágenes/icon_volver.png" alt="Volver">
+       <h2>Harry Potter y las reliquias de la muerte parte 2</h2>
+    </header>
+
+    <section>
+      <figure>
+       <img href="imágenes/harry_potter_y_las_reliquias_de_la_muerte.jpg" alt="Harry potter y las reliquias de la  muerte">
+       <figcaption>Sinopsis: La batalla entre las fuerzas del bien y del mal del mundo mágico se convierte en una guerra que no deja
+                   a nadie indiferente. Harry Potter es quien tiene que hacer el último sacrificio antes de enfrentarse 
+                   al malvado Voldemort.</figcaption>
+      </figure>
+    </section>
+
+
+    <section>
+      <h3>Adelanto</h3>
+ 
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/HguSMW8XveQ?si=F6JJyhwfrnmtIlXE" title="YouTube video player" 
+       frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+       referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+    <section>
+
+
+
+  </body>
+</html>
